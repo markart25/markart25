@@ -7,8 +7,8 @@
 ## minecraft
 https://discord.gg/Gu2BKjDfRw 
 </div>
+
 ## github
-</div>
 https://discord.gg/BfPfT2BvMm
 </div>
 
