@@ -4,8 +4,10 @@
 
 ###
 
+## minecraft
 https://discord.gg/Gu2BKjDfRw 
 </div>
+## github
 https://discord.gg/BfPfT2BvMm
 
 
