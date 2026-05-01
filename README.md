@@ -8,7 +8,7 @@
 https://discord.gg/Gu2BKjDfRw 
 </div>
 
-## github
+## github (make a ticket for help with anything on this github or related)
 https://discord.gg/BfPfT2BvMm
 </div>
 
