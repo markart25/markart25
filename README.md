@@ -11,7 +11,7 @@
 
 ---
 
-## 🎮 Communities
+## Communities
 
 <p align="center">
   <a href="https://discord.gg/Gu2BKjDfRw">
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp" />&nbsp;&nbsp;
@@ -43,7 +43,7 @@
 
 ---
 
-## 📊 Stats
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markart25&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="stats" />
