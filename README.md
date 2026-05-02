@@ -46,14 +46,6 @@
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/markart25/mste">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=markart25&repo=mste&theme=dracula&hide_border=false" alt="mste" />
-  </a>
-  <a href="https://github.com/markart25/facial_sentiment_analisys">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=markart25&repo=facial_sentiment_analisys&theme=dracula&hide_border=false" alt="facial sentiment analysis" />
-  </a>
-</p>
 
 ###  [mste](https://github.com/markart25/mste)
 a small nano-like terminal text editor written in Python with `curses`. Zero dependencies, familiar nano keybindings, published on the AUR — install with `yay -S mste`.
