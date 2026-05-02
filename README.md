@@ -2,11 +2,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&section=header&text=markart25&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=Welcome%20to%20my%20GitHub&descSize=20&descAlignY=55&animation=twinkling" alt="header" />
 </div>
 
-<h3 align="center">👋 Hey there!</h3>
+<h3 align="center">hi</h3>
 
 <p align="center">
-  I'm into Minecraft, Python, C#, and tinkering with Raspberry Pis & Linux.<br>
-  Always happy to chat — feel free to drop into one of the Discords below.
+  i'm into Python, C#, and tinkering with Raspberry Pis & Linux.<br>
+  happy to chat if u want to join one of the discords below.
 </p>
 
 ---
