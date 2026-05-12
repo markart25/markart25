@@ -53,7 +53,7 @@ a small nano-like terminal text editor written in Python with `curses`. Zero dep
 ###  [facial_sentiment_analisys](https://github.com/markart25/facial_sentiment_analisys)
 facial sentiment analysis — detecting emotions from faces using Python.
 
-### [markdots](https://github.com/markart25/dotfiles)
+### [markdots](https://github.com/markart25/markdots)
 my Arch Linux + Hyprland setup. Configs for the window manager, terminal, status bar, and everything else that makes my laptop look good. A install guide is included
 
 ---
