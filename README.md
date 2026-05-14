@@ -40,7 +40,7 @@
 
 ###  [mste](https://github.com/markart25/mste)
 a small nano-like terminal text editor written in Python with `curses`. Zero dependencies, familiar nano keybindings, published on the AUR — install with `yay -S mste`.
-
+<img src="https://img.shields.io/github/stars/markart25/mste?style=for-the-badge" />
 ###  [facial_sentiment_analisys](https://github.com/markart25/facial_sentiment_analisys)
 facial sentiment analysis — detecting emotions from faces using Python.
 
