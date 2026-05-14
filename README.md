@@ -56,8 +56,28 @@ a small nano-like terminal text editor written in Python with `curses`. Zero dep
 ###  [facial_sentiment_analisys](https://github.com/markart25/facial_sentiment_analisys)
 facial sentiment analysis — detecting emotions from faces using Python.
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/markart25/facial_sentiment_analisys?style=plastic" />
+  <img src="https://img.shields.io/github/forks/markart25/facial_sentiment_analisys?style=plastic" />
+  <img src="https://img.shields.io/github/issues/markart25/facial_sentiment_analisys?style=plastic" />
+  <img src="https://img.shields.io/github/last-commit/markart25/facial_sentiment_analisys?style=plastic" />
+  <img src="https://img.shields.io/github/repo-size/markart25/facial_sentiment_analisys?style=plastic" />
+  <img src="https://img.shields.io/github/languages/top/markart25/facial_sentiment_analisys?style=plastic" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=markart25.facial_sentiment_analisys" />
+</p>
+
 ### [markdots](https://github.com/markart25/markdots)
 my Arch Linux + Hyprland setup. Configs for the window manager, terminal, status bar, and everything else that makes my laptop look good. A install guide is included
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/markart25/markdots?style=plastic" />
+  <img src="https://img.shields.io/github/forks/markart25/markdots?style=plastic" />
+  <img src="https://img.shields.io/github/issues/markart25/markdots?style=plastic" />
+  <img src="https://img.shields.io/github/last-commit/markart25/markdots?style=plastic" />
+  <img src="https://img.shields.io/github/repo-size/markart25/markdots?style=plastic" />
+  <img src="https://img.shields.io/github/languages/top/markart25/markdots?style=plastic" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=markart25.markdots" />
+</p>
 
 ---
 
