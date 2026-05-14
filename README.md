@@ -42,7 +42,16 @@
 a small nano-like terminal text editor written in Python with `curses`. Zero dependencies, familiar nano keybindings, published on the AUR — install with `yay -S mste`.
 
 
-<img src="https://img.shields.io/github/stars/markart25/mste?style=plastic" />
+<p align="center">
+  <img src="https://img.shields.io/github/stars/markart25/mste?style=plastic" />
+  <img src="https://img.shields.io/github/forks/markart25/mste?style=plastic" />
+  <img src="https://img.shields.io/github/issues/markart25/mste?style=plastic" />
+  <img src="https://img.shields.io/github/last-commit/markart25/mste?style=plastic" />
+  <img src="https://img.shields.io/github/repo-size/markart25/mste?style=plastic" />
+  <img src="https://img.shields.io/github/languages/top/markart25/mste?style=plastic" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=markart25.mste" />
+</p>
+
 
 ###  [facial_sentiment_analisys](https://github.com/markart25/facial_sentiment_analisys)
 facial sentiment analysis — detecting emotions from faces using Python.
@@ -53,16 +62,6 @@ my Arch Linux + Hyprland setup. Configs for the window manager, terminal, status
 ---
 
 ## Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/markart25/mste?style=plastic" />
-  <img src="https://img.shields.io/github/forks/markart25/mste?style=plastic" />
-  <img src="https://img.shields.io/github/issues/markart25/mste?style=plastic" />
-  <img src="https://img.shields.io/github/last-commit/markart25/mste?style=plastic" />
-  <img src="https://img.shields.io/github/repo-size/markart25/mste?style=plastic" />
-  <img src="https://img.shields.io/github/languages/top/markart25/mste?style=plastic" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=markart25.mste" />
-</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markart25&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
