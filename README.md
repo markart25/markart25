@@ -54,6 +54,16 @@ my Arch Linux + Hyprland setup. Configs for the window manager, terminal, status
 
 ## Stats
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/markart25/mste?style=plastic" />
+  <img src="https://img.shields.io/github/forks/markart25/mste?style=plastic" />
+  <img src="https://img.shields.io/github/issues/markart25/mste?style=plastic" />
+  <img src="https://img.shields.io/github/last-commit/markart25/mste?style=plastic" />
+  <img src="https://img.shields.io/github/repo-size/markart25/mste?style=plastic" />
+  <img src="https://img.shields.io/github/languages/top/markart25/mste?style=plastic" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=markart25.mste" />
+</p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markart25&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markart25&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
@@ -68,15 +78,6 @@ my Arch Linux + Hyprland setup. Configs for the window manager, terminal, status
 
 [![markart25's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=markart25&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/markart25/mste?style=plastic" />
-  <img src="https://img.shields.io/github/forks/markart25/mste?style=plastic" />
-  <img src="https://img.shields.io/github/issues/markart25/mste?style=plastic" />
-  <img src="https://img.shields.io/github/last-commit/markart25/mste?style=plastic" />
-  <img src="https://img.shields.io/github/repo-size/markart25/mste?style=plastic" />
-  <img src="https://img.shields.io/github/languages/top/markart25/mste?style=plastic" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=markart25.mste" />
-</p>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12&section=footer" alt="footer" />
