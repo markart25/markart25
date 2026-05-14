@@ -51,14 +51,13 @@ my Arch Linux + Hyprland setup. Configs for the window manager, terminal, status
 
 ## Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markart25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=markart25&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="170" alt="languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=markart25&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markart25&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markart25&theme=tokyonight" alt="GitHub Streak" height="150" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markart25&theme=dracula&hide_border=false" alt="streak" />
-</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=markart25.markart25" alt="visitors" />
