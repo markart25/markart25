@@ -52,8 +52,8 @@ my Arch Linux + Hyprland setup. Configs for the window manager, terminal, status
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markart25&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=markart25&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=false&order=2" height="170" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=markart25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=markart25&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="170" alt="languages" />
 </p>
 
 <p align="center">
