@@ -32,7 +32,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,rust,linux,arch,git,github,vscode,discord,raspberrypi,bash,kali,pytorch&theme=dark" />
 </p>
-
+(i havent writen a line of rust but i thought it would be tuff to include as i attempted to learn it)
 ---
 
 ## Featured Projects
