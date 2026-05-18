@@ -79,6 +79,18 @@ my Arch Linux + Hyprland setup. Configs for the window manager, terminal, status
   <img src="https://visitor-badge.laobi.icu/badge?page_id=markart25.markdots" />
 </p>
 
+###  [bosif](https://github.com/markart25/bosif)
+a terminal OSINT tool written in Python. You give it whatever info you have — a name, username, email, domain, IP, or phone — and it fans out across public sources (600+ platforms via WhatsMyName, Gravatar, DNS, geolocation, libphonenumber) to fill in the blanks. Zero API keys, stdlib-only.
+<p align="center">
+  <img src="https://img.shields.io/github/stars/markart25/bosif?style=plastic" />
+  <img src="https://img.shields.io/github/forks/markart25/bosif?style=plastic" />
+  <img src="https://img.shields.io/github/issues/markart25/bosif?style=plastic" />
+  <img src="https://img.shields.io/github/last-commit/markart25/bosif?style=plastic" />
+  <img src="https://img.shields.io/github/repo-size/markart25/bosif?style=plastic" />
+  <img src="https://img.shields.io/github/languages/top/markart25/bosif?style=plastic" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=markart25.bosif" />
+</p>
+
 ---
 
 ## Stats
