@@ -67,7 +67,7 @@ facial sentiment analysis — detecting emotions from faces using Python.
 </p>
 
 ### [markdots](https://github.com/markart25/markdots)
-my Arch Linux + Hyprland setup. Configs for the window manager, terminal, status bar, and everything else that makes my laptop look good. A install guide is included
+my Arch Linux + Hyprland setup. Configs for the window manager, terminal, waybar, wallpaper scripts and everything else that makes my laptop look good. A install guide is included
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/markart25/markdots?style=plastic" />
