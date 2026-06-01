@@ -91,6 +91,19 @@ a terminal OSINT tool written in Python. You give it whatever info you have — 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=markart25.bosif" />
 </p>
 
+###  [penknife](https://github.com/markart25/penknife)
+a tiny TUI launcher for your pentest toolkit — pick a tool, pick a preset, launch.
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/markart25/penknife?style=plastic" />
+  <img src="https://img.shields.io/github/forks/markart25/penknife?style=plastic" />
+  <img src="https://img.shields.io/github/issues/markart25/penknife?style=plastic" />
+  <img src="https://img.shields.io/github/last-commit/markart25/penknife?style=plastic" />
+  <img src="https://img.shields.io/github/repo-size/markart25/penknife?style=plastic" />
+  <img src="https://img.shields.io/github/languages/top/markart25/penknife?style=plastic" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=markart25.penknife" />
+</p>
+
 ---
 
 ## Stats
