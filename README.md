@@ -8,6 +8,7 @@
   i'm into Python, C#, and tinkering with Raspberry Pis & Linux.<br>
   happy to chat if u want to join one of the discords below. <br>
   I use arch linux on my laptop. i have a repo with my config files for hyprland
+  (i make a lot of terminal app projects btw)
 </p>
 
 ---
