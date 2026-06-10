@@ -105,16 +105,16 @@ a tiny TUI launcher for your pentest toolkit — pick a tool, pick a preset, lau
   <img src="https://visitor-badge.laobi.icu/badge?page_id=markart25.penknife" />
 </p>
 
-###  [markfolio](https://github.com/markart25/markfolio)
+###  [markfolio](https://github.com/markart25/markart25.github.io) [click here for website](markart25.github.io)
 my project portfolio that builds itself from GitHub and themes itself from the wallpaper — pywal, but for a website.
 <p align="center">
-  <img src="https://img.shields.io/github/stars/markart25/markfolio?style=plastic" />
-  <img src="https://img.shields.io/github/forks/markart25/markfolio?style=plastic" />
-  <img src="https://img.shields.io/github/issues/markart25/markfolio?style=plastic" />
-  <img src="https://img.shields.io/github/last-commit/markart25/markfolio?style=plastic" />
-  <img src="https://img.shields.io/github/repo-size/markart25/markfolio?style=plastic" />
-  <img src="https://img.shields.io/github/languages/top/markart25/markfolio?style=plastic" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=markart25.markfolio" />
+  <img src="https://img.shields.io/github/stars/markart25/markart25.github.io?style=plastic" />
+  <img src="https://img.shields.io/github/forks/markart25/markart25.github.io?style=plastic" />
+  <img src="https://img.shields.io/github/issues/markart25/markart25.github.io?style=plastic" />
+  <img src="https://img.shields.io/github/last-commit/markart25/markart25.github.io?style=plastic" />
+  <img src="https://img.shields.io/github/repo-size/markart25/markart25.github.io?style=plastic" />
+  <img src="https://img.shields.io/github/languages/top/markart25/markart25.github.io?style=plastic" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=markart25.markart25.github.io" />
 </p>
 
 ---
