@@ -122,7 +122,6 @@ my project portfolio that builds itself from GitHub and themes itself from the w
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markart25&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markart25&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=markart25&theme=tokyonight" alt="GitHub Streak" height="150" />
@@ -133,7 +132,6 @@ my project portfolio that builds itself from GitHub and themes itself from the w
   <img src="https://visitor-badge.laobi.icu/badge?page_id=markart25.markart25" alt="visitors" />
 </p>
 
-[![markart25's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=markart25&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
