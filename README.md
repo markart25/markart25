@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile banner](https://raw.githubusercontent.com/markart25/markart25/main/banner.jpg)
+![Profile banner](https://raw.githubusercontent.com/markart25/markart25/main/fingers_cropped.jpg)
 
 </div>
 
