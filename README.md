@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&section=header&text=markart25&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=Welcome%20to%20my%20GitHub&descSize=20&descAlignY=55&animation=twinkling" alt="header" />
+  ![Profile banner](fingers.jpg)
 </div>
 
 <h3 align="center">welcome</h3>
