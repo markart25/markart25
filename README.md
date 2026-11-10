@@ -1,5 +1,5 @@
 <div align="center">
-  ![Profile banner](https://raw.githubusercontent.com/markart25/markart25/main/fingers.jpg)
+  ![Profile banner](https://raw.githubusercontent.com/markart25/markart25/main/banner.jpg)
 </div>
 
 <h3 align="center">welcome</h3>
