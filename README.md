@@ -18,10 +18,6 @@
 ## Communities
 
 <p align="center">
-  <a href="https://discord.gg/Gu2BKjDfRw">
-    <img src="https://img.shields.io/badge/Minecraft%20-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Minecraft Discord" />
-  </a>
-  &nbsp;
   <a href="https://discord.gg/BfPfT2BvMm">
     <img src="https://img.shields.io/badge/GitHub%20Support-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Support Discord" />
   </a>
