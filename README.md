@@ -29,7 +29,7 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,rust,linux,arch,git,github,vscode,discord,raspberrypi,bash,pytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,rust,cs,c,cpp,linux,arch,git,github,vscode,discord,raspberrypi,bash,pytorch&theme=dark" />
 </p>
 
 ## Featured Projects
