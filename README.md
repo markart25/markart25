@@ -98,7 +98,10 @@ a tiny TUI launcher for your pentest toolkit — pick a tool, pick a preset, lau
 
 
 <div align="center">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=markart25&theme=tokyonight" alt="GitHub Streak" height="150" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markart25&theme=tokyonight)
+  
 </div>
 
 
