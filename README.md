@@ -103,11 +103,6 @@ a tiny TUI launcher for your pentest toolkit — pick a tool, pick a preset, lau
   
 </div>
 
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
-
-</div>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=markart25.markart25" alt="visitors" />
